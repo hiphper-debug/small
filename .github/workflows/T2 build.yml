@@ -16,7 +16,6 @@ jobs:
         sdk:
           - 24.10.3
         arch:
-          - aarch64_cortex-a53
           - x86_64
 
     steps:
